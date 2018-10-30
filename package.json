@@ -1,0 +1,29 @@
+{
+  "name": "football",
+  "version": "1.0.0",
+  "description": "Football Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "Football"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baumchen12/Football.git"
+  },
+  "keywords": [
+    "Football"
+  ],
+  "author": "Jordan Baumchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baumchen12/Football/issues"
+  },
+  "homepage": "https://github.com/baumchen12/Football#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0"
+  }
+}
