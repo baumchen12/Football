@@ -21,7 +21,9 @@
   "homepage": "https://github.com/baumchen12/Football#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "mongoose": "^5.3.7"
+    "mongod": "^2.0.0",
+    "mongoose": "^5.3.10",
+    "nodemon": "^1.18.6"
   },
   "devDependencies": {
     "eslint": "^5.8.0"

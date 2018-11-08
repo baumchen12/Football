@@ -20,7 +20,7 @@ const config = {
 			console.log('DB Connection Failed!')
 		},
 		onSuccess: () => {
-			console.log('DB Successfully Connected!')
+			console.log('DB CONNECTED!')
 		}
 	}
 }
